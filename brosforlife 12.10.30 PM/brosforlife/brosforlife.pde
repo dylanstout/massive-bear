@@ -1,10 +1,10 @@
-//a
+
 import processing.serial.*;
 
 import cc.arduino.*;
 
 Arduino arduino;
-//update
+
 void setup() {
  size(1000, 500);
 
